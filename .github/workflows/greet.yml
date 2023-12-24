@@ -16,7 +16,7 @@ jobs:
     name: 'Send greeting'
     runs-on: ubuntu-latest
     steps:          
-      - name: 'Generate Greeting'
+      - name: 'Festive Greetings'
         id: generate
         uses: Vishalk91-4/Festive-Greeting-Action@v0.1
         with:
