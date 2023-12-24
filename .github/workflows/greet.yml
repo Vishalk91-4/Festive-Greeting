@@ -8,7 +8,7 @@ on:
       phone:
         description: 'Phone number to send the greeting to'
       context:
-        description: 'Context to use for the greeting'
+        description: 'Context to use for the greeting, Festival Name'
         required: true
     
 jobs:
