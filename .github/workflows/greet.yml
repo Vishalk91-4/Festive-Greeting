@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       person:
-        description: 'Name of the person to greet, Festival Name'
+        description: 'Name of the person to send the greeting to'
         required: true
       phone:
         description: 'Phone number to send the greeting to'
