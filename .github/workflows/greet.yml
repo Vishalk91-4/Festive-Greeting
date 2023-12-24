@@ -1,4 +1,4 @@
-name: 'Seasons Greetings 2'
+name: 'Festive Greetings'
 on:
   workflow_dispatch:
     inputs:
